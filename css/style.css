@@ -7,5 +7,19 @@
 body {
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
-    color: cadetblue;
+    color: rgb(17, 17, 17);
+    font-size: 16px;
+}
+
+#container {
+
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid ;
+    margin: 0 auto;
+}
+
+#container h1 {
+    font-size: 20px;
 }
